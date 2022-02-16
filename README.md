@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rameshdasbairagya
-- 👀 I’m interested in Android development
-- 🌱 I’m currently learning android development
-- 💞️ I’m looking to collaborate on android app development
+- 👀 I’m interested in Python development
+- 🌱 I’m currently learning python development
+- 💞️ I’m looking to collaborate on Python development
 - 📫 How to reach me email :-  linxcomedy@gmail.com
 
 <!---
